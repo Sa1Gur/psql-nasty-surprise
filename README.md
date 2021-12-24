@@ -1,5 +1,5 @@
 # psql-nasty-surprise
-the repo to illustrate medium article
+the repo to illustrate the medium article https://guriysamarin.medium.com/anyone-who-uses-psql-to-update-production-db-could-get-a-nasty-surprise-4835b59a240f
 
 1. put `migration` file into `changelog` folder for future mapping
 2. create empty Postgres database container
